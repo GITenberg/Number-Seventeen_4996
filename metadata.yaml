@@ -1,6 +1,9 @@
 _repo: Number-Seventeen_4996
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Number 17
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tracy, Louis
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4996#Number-Seventeen
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
